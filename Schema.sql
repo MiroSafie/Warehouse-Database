@@ -132,7 +132,3 @@ CREATE TABLE Work_schedule(
     start_time DATETIME NOT NULL,
     FOREIGN KEY(Worker_ID) REFERENCES Workers(ID)
 );
-
-
-
-#);
