@@ -134,13 +134,5 @@ CREATE TABLE Work_schedule(
 );
 
 
-#obsolite
-#CREATE TABLE Log(
-#    ID INT NOT NULL,
-#    Datetime DATETIME NOT NULL,
-#    Worker_ID INT,
-#    Event_ID INT,
-#    PRIMARY KEY(ID),
-#    FOREIGN KEY (Worker_ID) REFERENCES Workers(ID),
-#    FOREIGN KEY (Event_ID) REFERENCES Events(ID)
+
 #);
