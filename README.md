@@ -30,7 +30,8 @@ It will help distribute the workers to tasks wich are lacking behind.\
 This dashboard is meant to be utilized by the warehouse manager.\
 It will help the manager to clearly see if some phase is lacking behind and make informed decisions.\
 For example in this case it seems that the packaging is lacking because there is alot of orders collected but not many to be shipped.\
-<img width="1278" height="718" alt="kuva" src="https://github.com/user-attachments/assets/a2cedce4-044f-46fa-853a-f34e0289a1a4" />
+<img width="1277" height="719" alt="kuva" src="https://github.com/user-attachments/assets/0be01f03-102b-4a5f-954c-3eed639caf73" />
+
 
 ## Future of the product
 - [ ] Create a dashboard wich shows workers data like hitting quatas.
